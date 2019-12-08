@@ -7,12 +7,12 @@ gem 'puma' # roar
 gem 'turbolinks', '~> 5.2.0'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 1.0.0', group: :doc
-gem 'nokogiri', '>= 1.10.3'
+gem 'nokogiri', '>= 1.10.5'
 gem 'tzinfo-data', require: false
 gem 'bootsnap', '>= 1.1.0', require: false
 
 # Asset pipeline
-gem 'webpacker', '~> 4'
+gem 'webpacker', '~> 4.2.0'
 gem 'sass-rails', '~> 5.0'
 gem 'bootstrap', '~> 4.3.1'
 gem 'bootstrap_form', '~> 4.2.0'
